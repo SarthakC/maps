@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,EACE,SAEF,KACE,YAAA,CACA","file":"styles.fa5950f7.css","sourceRoot":"..","sourcesContent":["* {\n  margin: 0;\n}\n#map {\n  height: 100vh;\n  width: 100vw;\n}\n"]}
